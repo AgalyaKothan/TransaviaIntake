@@ -1,6 +1,6 @@
-Boilerplate Selenium web application test, customize to your heart's desire.
+Purpose of this script is to search for a flight to Pisa,Italy in www.transavia.com
 
-The configuration of Selenium (i.e. which browser to use) and starting the browser session is done in the SuiteSetup. Which allows this configuration to be shared between tests. Closing the browser is done in SuiteTearDown, which happens after all tests are completed.
+scenario captured here in this script to look for a flight two way
 
 |script          |browser test                                                                             |
 |open            |https://www.transavia.com/en-NL/home/                                                    |
